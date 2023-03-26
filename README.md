@@ -1,2 +1,3 @@
 # TrialHostingWebsite
-Hosting a Youtube playlist player web app on Gitub
+Hosting a Smart Rockets Demo
+
